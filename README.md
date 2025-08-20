@@ -27,5 +27,7 @@ Os exercícios abordam os seguintes conceitos:
 
 Tecnologias:
 Java SE 17
+
 Visual Studio Code
+
 Git / GitHub
