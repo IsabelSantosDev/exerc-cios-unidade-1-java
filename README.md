@@ -1,4 +1,4 @@
-# Atividades Java - Unidade 1
+#  📚 Atividades Java - Unidade 1
 
 Este repositório contém os exercícios práticos da **Unidade 1** da disciplina de **Análise e Desenvolvimento de Sistemas**. 
 
@@ -12,7 +12,7 @@ Os exercícios abordam os seguintes conceitos:
 
 ---
 
-## Exercícios Implementados
+## 📝 Exercícios Implementados
 
 1. **Sistema de Reservas de Hotel** – variáveis primitivas.  
 2. **Verificador de Produto** – condicionais.  
@@ -25,9 +25,7 @@ Os exercícios abordam os seguintes conceitos:
 9. **Cadastro de Clientes** – introdução à POO.  
 10. **Sistema de Estoque** – POO aplicada.  
 
-Tecnologias:
-Java SE 17
-
-Visual Studio Code
-
-Git / GitHub
+## ⚙️ Tecnologias Utilizadas
+- **Linguagem:** Java ☕  
+- **IDE:** VS Code / IntelliJ IDEA  
+- **Controle de Versão:** Git e GitHub
