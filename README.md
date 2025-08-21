@@ -1,6 +1,6 @@
 # Atividades Java - Unidade 1
 
-Este repositório contém a resolução dos exercícios da **Unidade 1** de Programação em Java, desenvolvidos no **VSCode** e organizados em arquivos separados.  
+Este repositório contém os exercícios práticos da **Unidade 1** da disciplina de **Análise e Desenvolvimento de Sistemas**. 
 
 Os exercícios abordam os seguintes conceitos:  
 - Variáveis e entrada de dados  
